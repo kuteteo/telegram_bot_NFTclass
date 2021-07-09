@@ -1,5 +1,5 @@
 const Web3 = require('web3');
-const pancakeapi = require('./pancakeapi')
+const pancakeapi = require('./pancakeAPI')
 const fs = require('fs');
 const ethers  = require('ethers')
 
